@@ -9,7 +9,7 @@
 
   <url>http://plasmodic.github.io/ecto_ros</url>
 
-  <build_depend>common_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
   <build_depend>ecto</build_depend>
   <build_depend>eigen</build_depend>
   <build_depend>geometry_msgs</build_depend>
